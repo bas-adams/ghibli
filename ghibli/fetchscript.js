@@ -9,8 +9,6 @@ container.setAttribute('class', 'container');
 
 app.appendChild(container);
 
-
-
 fetch(PATH)
     .then((response) => {
     return  response.json();
