@@ -1,0 +1,22 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 1440px;
+    margin: 0 auto;
+    background: #003f4e;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media screen and (min-width: 600px) {
+    
+}
+
+@media screen and (min-width: 900px) {
+    
+}
